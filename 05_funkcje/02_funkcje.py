@@ -10,3 +10,4 @@ def funkcja2(x, y = 10):
     print('Podane argumenty to: {}, {}' .format(x,y))
 funkcja2(12, 45)
 
+print('blabaa')
